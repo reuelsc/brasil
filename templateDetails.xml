@@ -21,10 +21,10 @@
 		<filename>templateDetails.xml</filename>
 	</files>
 	<positions>
-		<position></position>
-		<position></position>
-		<position></position>
-		<position></position>
-		<position></position>
+		<position>barra</position>
+		<position>acessibilidade</position>
+		<position>left-menu</position>
+		<position>footer</position>
+		<position>debug</position>
 	</positions>
 </extension>
